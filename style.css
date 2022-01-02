@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(100, 100, 235);
+    color: cornsilk;
+}
+h1{
+    color: cyan;
+}
+h2{
+    color: darkgreen;
+}
